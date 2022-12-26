@@ -1,0 +1,6 @@
+jieba
+torch
+transformers
+sentencepiece
+flask
+protobuf==3.20.1

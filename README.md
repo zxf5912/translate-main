@@ -1,2 +1,3 @@
-# translate-master
-translate master.
+# 翻译
+
+> 支持智能回邮翻译及提供部门翻译接口
