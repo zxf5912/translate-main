@@ -4,4 +4,4 @@
 
 > model文件太大，还未上传，需要的可以联系我获取.
 
-> email:zxf5912@126.com
+> email:zhuxunfei5912@163.com
